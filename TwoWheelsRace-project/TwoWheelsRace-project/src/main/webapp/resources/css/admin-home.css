@@ -1,0 +1,70 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	color:gold;
+	font-size: 50px;
+}
+
+h2
+{
+	font-family:serif;
+	font-size:20px;
+}
+
+.wrap{
+	width:100%;
+    margin-right: 40 px;
+	margin-left: 40 px;
+}
+
+.div1, .div2 {
+
+   border-style: dotted;
+   border-color:4px blue;
+   padding: 50px 50px 50px 50px;
+   background-color: #f0f4f7;
+   width: 500px;
+   height: 450px; 
+    float:left;
+} 
+
+
+.div2 {
+   
+   border-style: dotted;
+   border-color:4px blue;
+   padding: 50px 50px 50px 50px;
+   background-color: #f0f4f7;
+   width: 600px;
+   height: 450px;
+	float:right;
+}
+
+.table1 {
+	
+	 text-align:center;
+	 cellpadding:2px; 
+	 cellspacing:2px; 
+	 width:500px; 
+	 height:250px; 
+}
+
+.table1 th, td {
+	 border: 1px solid black; 
+}
+
+#btn{
+	background-color: #4CAF50;
+	width:30%;
+	padding: 16px 20px;
+	
+}
+
+#btn:hover {
+  width: 10em;
+  height: 2em;
+  background-color:green;
+ 
+}

@@ -1,0 +1,65 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	color:gold;
+	font-size: 50px;
+}
+
+h2 {
+	font-family: serif;
+	font-size: 30px;]
+}
+
+label {
+	font-family:serif;
+	font-size:20px;
+}
+
+.wrap{
+	width:100%;
+    margin-right: 40 px;
+	margin-left: 40 px;
+}
+
+.table {
+
+   border-style: dotted;
+   border-color:4px blue;
+   padding: 50px 50px 50px 50px;
+   background-color: #f0f4f7;
+   width: 500px;
+   height: 450px;
+   float:left;
+} 
+
+.table2 {
+   border-style: dotted;
+   border-color:4px blue;
+   padding: 50px 50px 50px 50px;
+   background-color: #f0f4f7;
+   width: 600px;
+   height: 450px;
+   float:right;
+  
+}
+
+
+ table.track td {
+   padding: 10px;
+}
+
+#btn{
+	background-color: #4CAF50;
+	width:30%;
+	padding: 10px 10px;
+	
+}
+
+#btn:hover {
+  width: 10em;
+  height: 2em;
+  background-color:green;
+ 
+}

@@ -1,0 +1,28 @@
+body {
+    background-color: #2e5a5a;
+}
+
+h1 {
+	font-size: 60px;
+	color:gold;
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+table#register {
+	
+    border-width: 1px;
+    width:40%
+   
+}
+.welcome {
+	h1.height: 400px;
+  	h1.width: 800px;
+  	a.color:red;
+  	position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    
+}
